@@ -1,4 +1,3 @@
-Project Description
 This project focuses on building an optimized convolutional neural network (CNN) for pneumonia classification using chest X-ray images. The model employs advanced techniques such as fine-tuning pre-trained models and data augmentation to improve accuracy and robustness.
 
 Features
